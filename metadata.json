@@ -1,0 +1,5 @@
+{
+  "name": "Seamless AI Video Generator",
+  "description": "An AI-powered research prototype that transforms diverse inputs—text, scripts, audio, images, and 3D models—into compelling animated video concepts. Leveraging the Gemini API, this tool generates detailed video descriptions and a representative keyframe image for any creative idea.",
+  "requestFramePermissions": []
+}
